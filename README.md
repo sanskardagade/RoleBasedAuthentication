@@ -1,21 +1,19 @@
-*Overview*
+*OVERVIEW*
 This project implements a Role-Based Authentication System using Node.js, Express, MongoDB, and JWT. The system allows users to register, login, and access resources based on their roles (e.g., admin, manager, user).
 
-*Features*
+*FEATURES*
 User Registration: Users can register with a username, password, and role.
 User Login: Secure login with password hashing using bcrypt and token-based authentication using JWT.
 Role-Based Authorization: Middleware to protect routes based on user roles.
 Token Verification: Middleware to validate tokens and ensure secure access.
 
-*Technologies Used*
+*TECHNOLOGY USED*
 Node.js: JavaScript runtime.
 Express.js: Backend framework.
 MongoDB: NoSQL database.
 
 
-*Setup Instructions*
-
-Setup Instructions
+*SETUP*
 
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/RoleBasedAuth.git

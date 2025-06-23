@@ -16,7 +16,7 @@ MongoDB: NoSQL database.
 *SETUP*
 
 1️⃣ Clone the Repository
-git clone https://github.com/sanskardagade/RoleBasedAuth.git
+git clone https://github.com/sanskardagade/RoleBasedAuthentication.git
 (Replace your-username with your GitHub username.)
 
 2️⃣ Navigate to the Project Folder
